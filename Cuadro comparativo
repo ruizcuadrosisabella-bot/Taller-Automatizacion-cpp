@@ -1,0 +1,26 @@
+# Taller Make
+
+# Integrantes
+Isabella Ruiz
+
+# Cómo ejecutar
+
+make build
+make run
+
+# Comparación Make vs CMake
+                           Make                                                     CMake
+
+Que Es        Es una herramienta para compilar                       Es una herramienta mas avanzada
+
+Uso           Es facil en programas pequeños                          Se usa mejor en programas grandes
+
+Ventaja             Es rapido y simple                                      Es mucho mas completo
+
+Desventaja     Es mas dificil de usar si el proyecto se alarga        Es mas dificil al inicio cuando parece sencillo
+
+Cuando Usarlo          Tareas Simples                                         Proyectos Grandes
+
+Archivos                 MakeFile                                             CMakeLists.txt
+
+Compatibilidad        Fumciona mas en Linux                                Funciona en varios sistemas 
